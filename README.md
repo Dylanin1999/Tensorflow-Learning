@@ -12,11 +12,10 @@ notes and Demos for Tensorflow Learning
  
   目录                 | 作用
   ---------            | ------  
-  Demo_of_learning_tf | 单元格内容  |  
-                      | 单元格内容  |  
-  NetWork_Struct      | 子目录     |  
-                      | AlexNet    | AlexNet的TensorFlow实现 
-                      | dataProcess| Cifar-10数据集的处理，包括了Cifar-10转换为jpg图片以及图片转换为Cifar-10格式
+  Demo_of_learning_tf |  学习TensorFlow时的demo代码 |       |
+  NetWork_Struct      | 子目录     |                       |
+                      | AlexNet    | AlexNet的TensorFlow实现 |
+                      | dataProcess| Cifar-10数据集的处理，包括了Cifar-10转换为jpg图片以及图片转换为Cifar-10格式|
  
    
 
